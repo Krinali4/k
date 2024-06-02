@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/krinali-protfolio1/static/css/main.58462fbc.css",
+    "main.js": "/krinali-protfolio1/static/js/main.fdc844e1.js",
+    "static/media/u-said-it-v13-1167.mp3": "/krinali-protfolio1/static/media/u-said-it-v13-1167.becd66496be9c81ddf9d.mp3",
+    "static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.jpg": "/krinali-protfolio1/static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.8ca90014fb6ce5980110.jpg",
+    "static/media/spaceman.png": "/krinali-protfolio1/static/media/spaceman.5ec7fcfa9a803ead726c.png",
+    "static/media/me.jpg": "/krinali-protfolio1/static/media/me.93d63f7916c18f023a10.jpg",
+    "index.html": "/krinali-protfolio1/index.html",
+    "main.58462fbc.css.map": "/krinali-protfolio1/static/css/main.58462fbc.css.map",
+    "main.fdc844e1.js.map": "/krinali-protfolio1/static/js/main.fdc844e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58462fbc.css",
+    "static/js/main.fdc844e1.js"
+  ]
+}
